@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.6</TargetFramework>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>y-z-f</Authors>
     <Company>江苏斯诺物联科技有限公司</Company>
     <RepositoryType>git</RepositoryType>
@@ -11,7 +11,7 @@
     <PackageProjectUrl>https://github.com/Vip56/Sino.Extensions.AreaService</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/Vip56/Sino.Extensions.AreaService/blob/dev/LICENSE</PackageLicenseUrl>
     <PackageTags>area</PackageTags>
-    <Description>提供省市区服务，增加 滨海新区、天津市区、茫崖市</Description>
+    <Description>提供省市区服务，增加 滨海新区、天津市区、茫崖市、加格达奇区</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
