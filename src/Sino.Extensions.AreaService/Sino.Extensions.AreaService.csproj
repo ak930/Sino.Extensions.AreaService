@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>2.0.0-beta5</Version>
+    <Version>2.0.0-beta6</Version>
     <Authors>y-z-f</Authors>
     <Company>江苏斯诺物联科技有限公司</Company>
     <RepositoryType>git</RepositoryType>
@@ -11,7 +11,8 @@
     <PackageProjectUrl>https://github.com/Vip56/Sino.Extensions.AreaService</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/Vip56/Sino.Extensions.AreaService/blob/dev/LICENSE</PackageLicenseUrl>
     <PackageTags>area</PackageTags>
-    <Description>提供省市区服务，增加 滨海新区、天津市区、茫崖市、加格达奇区</Description>
+    <Description>beta5提供省市区服务，增加 滨海新区、天津市区、茫崖市、加格达奇区
+beta6调整 巢湖市到合肥市下辖，庐江县到合肥市下辖，无为市到芜湖市下辖，含山县到马鞍山下辖，和县到马鞍山下辖</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
